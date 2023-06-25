@@ -52,4 +52,9 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
   <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/animation.gif" alt="Animated Coding" width="500" height="300" />
 </p>
 
+<p>
+  < img src="http://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical"
+    alt="GitHub Streak" />
+</p>
+
 
