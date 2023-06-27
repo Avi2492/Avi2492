@@ -49,7 +49,7 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 
 ## ⚡ Fun Fact
 
-- When I'm not coding, you'll find me exploring the outdoors and capturing beautiful landscapes with my camera!
+- When I'm not free, you'll find me developing self-projects!
 
 <!-- Feel free to connect with me on social media or via email! -->
 
@@ -60,7 +60,8 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 </p>
 
 <p align="center">
-  <img src="https://github.com/Avi2492/Avi2492/blob/main/animation.gif" alt="Animated Coding" width="500" height="300" />
+  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedin" width="100" height="100" />
+  <a href="www.linkedin.com/in/avinash-pandey-8295291b5">Linkedin</a>
 </p>
 
 
