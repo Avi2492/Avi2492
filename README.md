@@ -7,6 +7,11 @@ YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Coding" />
+</p>
+
+
 # Hey there, I'm Avinash Pandey (https://avi2492.github.io/AwesomePortfolio/)! 👋
 
 I'm a passionate full-stack developer, always excited to learn and explore new technologies. Welcome to my GitHub profile!
