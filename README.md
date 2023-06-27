@@ -60,8 +60,8 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 </p>
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedin" width="100" height="100" />
-  <a href="www.linkedin.com/in/avinash-pandey-8295291b5">Linkedin</a>
+  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedin" width="10" height="10" />
+  <a href="www.linkedin.com/in/avinash-pandey-8295291b5"></a>
 </p>
 
 
