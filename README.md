@@ -59,10 +59,6 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
   <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated Coding" width="500" height="300" />
 </p>
 
-<p align="center">
-  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedin" width="10" height="10" />
-  <a href="www.linkedin.com/in/avinash-pandey-8295291b5"></a>
-</p>
 
 
 
