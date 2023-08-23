@@ -51,6 +51,10 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 
 <!-- Feel free to connect with me on social media or via email! -->
 
+## 📲 Connect with me
+![Linkedin](https://img.shields.io/badge/-Linkedin-E34F26?style=flat-square&logo=Linkedin&logoColor=ffffff)
+
+
 
 
 <p align="center">
