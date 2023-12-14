@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hey there, I'm Avinash Pandey [Portfolio](https://avi2492.github.io/AvinashPortfolio/)! 👋
+## Hey there, I'm Avinash Pandey [Portfolio Link](https://avi2492.github.io/AvinashPortfolio/)
 
 I'm a passionate full-stack developer, always excited to learn and explore new technologies. Welcome to my GitHub profile!
 
