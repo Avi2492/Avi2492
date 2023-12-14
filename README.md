@@ -53,8 +53,8 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 
 ## 📲 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/avinash-pandey2492/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Avinash2492)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Avi2492)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="30" width="30">](https://www.linkedin.com/in/avinash-pandey2492/)
+[<img src="https://example.com/twitter-logo.png" height="30" width="30">](https://twitter.com/yourusername)
+[<img src="https://example.com/github-logo.png" height="30" width="30">](https://github.com/yourusername)
 
 ### Feel free to reach out to me on my social media platforms. I'm always open to interesting conversations and collaborations!
