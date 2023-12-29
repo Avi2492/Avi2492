@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Technologies & Tools
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="50" width="50">]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="50" width="50">
 
 ## ⚡ Practice Platforms
 
