@@ -8,11 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hey there, I'm Avinash Pandey [Portfolio Link](https://avi2492.github.io/AvinashPortfolio/)
 
-I'm a passionate full-stack developer, always excited to learn and explore new technologies. Welcome to my GitHub profile!
-
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Coding" />
-</p>
+- I'm a passionate full-stack developer, always excited to learn and explore new technologies. Welcome to my GitHub profile!
 
 ## 🚀 Technologies & Tools
 
@@ -25,6 +21,11 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## ⚡ Practice Platforms
+
+[<img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" height="50" width="50">](https://www.hackerrank.com/profile/avinashpandey241)
+
 
 ## 💻 What I Do
 
@@ -44,12 +45,6 @@ I'm a passionate full-stack developer, always excited to learn and explore new t
 - Contribute to open-source projects that make a positive impact.
 - Master new technologies to enhance my full-stack development skills.
 - Learn and implement machine learning algorithms in web applications.
-
-## ⚡ Fun Fact
-
-- When I'm not free, you'll find me developing self-projects!
-
-<!-- Feel free to connect with me on social media or via email! -->
 
 ## 📲 Connect with me
 
