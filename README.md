@@ -10,24 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 - I'm a passionate full-stack developer, always excited to learn and explore new technologies. Welcome to my GitHub profile!
 
-## 🚀 Technologies & Tools
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" width="50">
-- <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="50" width="50">
-- <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" height="50" width="50">
-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" height="50" width="50">
-- <img src="https://d7umqicpi7263.cloudfront.net/img/product/3812abab-c621-473c-9638-eab3d8401a9c.png" height="50" width="50">
-- <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" height="50" width="50">
-- <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" height="50" width="50">
-- <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="50" width="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="50" width="50">
-
 
 ## ⚡ Practice Platforms
 
