@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## ⚡ Practice Platforms
 
 [<img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" height="50" width="50">](https://www.hackerrank.com/profile/avinashpandey241)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" width="50">](https://leetcode.com/Avi24092/)
 
 
 ## 💻 What I Do
